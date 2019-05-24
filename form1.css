@@ -1,0 +1,71 @@
+    .form-group{
+    max-width: 350%;
+    background-color: transparent;
+    padding-right: 5px;
+    }
+
+    .dropdown {
+    height: 35px;
+    width: 140px;
+    padding: 5px;
+    margin: 10px;  
+    margin-top: 15px;
+    border-radius: 4px;
+    }
+
+    .drop{
+     padding-top: 2.5px;
+     padding-bottom: 2.5px;
+     text-align: center;
+     }
+
+    .active{
+    padding-top: 20px;
+    width: 100px;
+    }
+
+    .container{
+    position: relative;
+    display: block;
+    }
+
+    .form-horizontal{
+    padding:5px;
+    cursor:pointer;
+    display:block;
+    width:450px;
+    margin: 0 auto;
+    }
+
+h1  {
+    text-align: center;
+
+    }
+
+h4  {
+    text-align: center;
+    padding-bottom: 5%;
+    }
+
+    .labels{
+    text-align: center;
+    padding-top: 10px;
+    }
+
+    .checkbox{
+    position: relative;
+    right: -40px;
+    margin-left: 10px;
+    display: block;
+    padding-bottom: 0.5px;
+    padding-top: 0.5px;
+    }
+  
+#submit{
+    background-color:#eee;
+    border-radius: 5px;
+    color: black solid;
+    height: 35px;
+    width: 65px;
+    margin: 5px;
+    }
